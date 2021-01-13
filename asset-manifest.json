@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/PechK/static/css/main.d07409cd.chunk.css",
+    "main.js": "/PechK/static/js/main.ccae5e30.chunk.js",
+    "main.js.map": "/PechK/static/js/main.ccae5e30.chunk.js.map",
+    "runtime-main.js": "/PechK/static/js/runtime-main.e166168a.js",
+    "runtime-main.js.map": "/PechK/static/js/runtime-main.e166168a.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/PechK/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.bcec0699.chunk.js": "/PechK/static/js/2.bcec0699.chunk.js",
+    "static/js/2.bcec0699.chunk.js.map": "/PechK/static/js/2.bcec0699.chunk.js.map",
+    "index.html": "/PechK/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/PechK/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.d07409cd.chunk.css.map": "/PechK/static/css/main.d07409cd.chunk.css.map",
+    "static/js/2.bcec0699.chunk.js.LICENSE.txt": "/PechK/static/js/2.bcec0699.chunk.js.LICENSE.txt",
+    "static/media/about1.4179b197.jpg": "/PechK/static/media/about1.4179b197.jpg",
+    "static/media/electrician.93b24816.jpg": "/PechK/static/media/electrician.93b24816.jpg",
+    "static/media/img1.4857722f.jpg": "/PechK/static/media/img1.4857722f.jpg",
+    "static/media/logc.7bf34fb8.jpg": "/PechK/static/media/logc.7bf34fb8.jpg",
+    "static/media/logp.49442c67.jpg": "/PechK/static/media/logp.49442c67.jpg",
+    "static/media/plumber.4bc640ff.jpg": "/PechK/static/media/plumber.4bc640ff.jpg",
+    "static/media/salon.63040bbf.jpg": "/PechK/static/media/salon.63040bbf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e166168a.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.bcec0699.chunk.js",
+    "static/css/main.d07409cd.chunk.css",
+    "static/js/main.ccae5e30.chunk.js"
+  ]
+}
